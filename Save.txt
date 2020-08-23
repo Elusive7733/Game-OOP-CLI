@@ -1,0 +1,1 @@
+Warrior 750 250 30 13 4500 Potion Potion Potion Potion Elixir 30 Endbringer

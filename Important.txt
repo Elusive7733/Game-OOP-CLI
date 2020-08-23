@@ -1,0 +1,46 @@
+cout main se hard coding hatao
+-Levelup add kr diya liken abhi linear hy sirf
+-baad main main attack damage bhi scale krwadunga abhi filhal sirf Max HP/Mana barh raha hy
+-Implemented ShadowDance/Enrage for 2 moves, Count us ke liye hi use ho raha hy (the value 5 in count is just random bs > 2 honi chaye)
+-aur ye BC cout main hard coding na karo
+-Miniboss aur boss ke attacks ke liye random function use krna hy
+-Friend function nehi chal raha ajeeb
+- Health minus main ja rahi hy 
+- bandit ke HP Exactly 0 honi chaye warna - main chali jati hy
+- har 5 bandits ke baad lvlup hy
+- har levelup pr Mana/Energy/Rage aur HP full ho jayain ge
+- Ye 1 1 bar bar press krke boring ho raha hy kuch naya karo nibbas
+
+
+V5: Ammar
+V6: Jahanzeb
+V7: ALL
+
+
+Things to Add
+
+- Inventory System (V5) //Array
+- need to add potion (V5)
+- need to make increase mana/energy/rage function in their specific class for using potion (V5)
+- need to check that rage mana energy health wont increase max(V6)
+- Mini Boss and Boss attacks (V6)
+- Checking of Abnormal Data (V6)
+
+- Load Game (V7) //filing
+
+- Story (Mahad, Ammar)
+- Merging Code(Jahanzeb) 
+- check for oop concepts
+
+Optional
+
+-Templates
+-Shop(V8)
+- need to introduce armour system. (V4)
+-Respawn
+-Scaling of xp/ regen
+-Scaling of Mana/Rage/Energy Cost
+
+Thats it for now!!!
+
+
